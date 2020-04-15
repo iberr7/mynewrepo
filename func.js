@@ -1,5 +1,4 @@
 function double(num)
-
 {
 	return x*2
 }
